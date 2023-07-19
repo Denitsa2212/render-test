@@ -1,9 +1,0 @@
-GET http://localhost:3001/api/notes
-###
-POST http://localhost:3001/api/notes
-Content-type: application/json
-
-{
-    "content": "Browser can execute only JavaScript",
-    "important": false
-}
